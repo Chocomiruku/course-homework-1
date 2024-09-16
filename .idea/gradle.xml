@@ -11,9 +11,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/homework1" />
+            <option value="$PROJECT_DIR$/homework3" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
+	<option name="delegatedBuild" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
